@@ -13,8 +13,9 @@ dependencies:
   meta: ^1.2.0
   functional_widget_annotation:
     git:
-      url: https://github.com/doejon/functional_widget@preview
+      url: https://github.com/doejon/functional_widget
       path: package/functional_widget_annotation
+      ref: preview
   source_gen: ^1.1.0
   code_builder: ^4.0.0
   collection: ^1.0.0
